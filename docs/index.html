@@ -9,13 +9,20 @@
   <link rel="stylesheet" href="//unpkg.com/docsify/lib/themes/vue.css">
 </head>
 <body>
+  <nav>
+    <a href="#/">项目</a>
+    <a href="#/home1">home1</a>
+    <a href="#/bar/a">bar/a</a>
+  </nav>
   <div id="app"></div>
   <script>
     window.$docsify = {
-      name: '',
-      repo: '',
-	  loadSidebar: ture,
-	  coverpage: ture
+	  name:'myblogs',
+	  repo:'',
+	  loadNavbar: true,
+	  coverpage: true,
+	  coverpage: ['/', '/zh-cn/'],
+	  loadSidebar: true
     }
   </script>
   <script src="//unpkg.com/docsify/lib/docsify.min.js"></script>

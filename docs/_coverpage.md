@@ -1,6 +1,17 @@
-﻿# myblogs
+﻿# 我的文档网站
+## 个人文档网站
+> 一个神奇的文档网站生成巩固
 
-> 我要开始装逼了
+* Simple and lightweight (~12kb gzipped)
+* Multiple themes
+* Not build static html files
 
-[CSDN]（http://blogs.csdn.net/m0_3795018）
-[滚动鼠标]（#introduction）
+[GitHub](https://github.com/docsifyjs/docsify/)
+[Get Started](#quick-start)
+[Get Started](#quick-start)
+
+<!-- 背景图片 -->
+![](_media/bg.png)
+
+<!-- 背景色 -->
+![color](#fbb30b)
